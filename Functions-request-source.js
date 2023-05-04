@@ -1,6 +1,3 @@
-//API KEY OPENAI
-// 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
-
 const prompt = args[0]
 
 if (!secrets.openaiKey) {
